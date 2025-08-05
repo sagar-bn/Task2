@@ -40,20 +40,16 @@ javac Main.java Student.java
 java Main
 
 📌 Example Menu in Console
-markdown
-Copy
-Edit
 1. Add
 2. View
 3. Delete
 4. Update
 5. Exit
-Choose one option:
+Choose one option:1
+
 📂 Sample Output
-yaml
-Copy
-Edit
 Enter student ID: 1
 Enter student marks: 88
 Enter student name: John
+
 Student added successfully!
